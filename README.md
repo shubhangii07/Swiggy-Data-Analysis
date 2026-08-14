@@ -315,8 +315,6 @@ One row represents one Swiggy menu-item listing for a specific restaurant, dish,
 
 
 
-## 📁 Project Structure
-
 ```text
 Swiggy_SQL_Project/
 │
