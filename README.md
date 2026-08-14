@@ -315,27 +315,31 @@ One row represents one Swiggy menu-item listing for a specific restaurant, dish,
 
 
 
-Swiggy\_SQL\_Project/
+## 📁 Project Structure
+
+```text
+Swiggy_SQL_Project/
 │
 ├── Dataset/
-│   ├── swiggy\_data.csv
-│   └── swiggy\_data.sql
+│   ├── swiggy_data.csv
+│   └── swiggy_data.sql
 │
 ├── Screenshot/
-│   ├── 01\_Data\_Quality\_Check.png
-│   ├── 02\_Duplicate\_Check.png
-│   ├── 03\_Data\_Model.png
-│   ├── 04\_Core\_KPIs.png
-│   ├── 05\_Location\_Analysis.png
-│   ├── 06\_Restaurant\_Category\_Analysis.png
-│   ├── 07\_Date\_Time\_Analysis.png
-│   └── 08\_Advanced\_SQL\_Ranking.png
+│   ├── 01_Data_Quality_Check.png
+│   ├── 02_Duplicate_Check.png
+│   ├── 03_Data_Model.png
+│   ├── 04_Core_KPIs.png
+│   ├── 05_Location_Analysis.png
+│   ├── 06_Restaurant_Category_Analysis.png
+│   ├── 07_Date_Time_Analysis.png
+│   └── 08_Advanced_SQL_Ranking.png
 │
-├── SQL\_Queries/
-│   └── swiggy\_analysis.sql
+├── SQL_Queries/
+│   └── swiggy_analysis.sql
 │
-├── Business\_Requirements.docx
+├── Business_Requirements.docx
 └── README.md
+```
 
 
 
