@@ -1,4 +1,4 @@
-#### **🍔 Swiggy SQL Data Analysis**
+#### **🍔 Swiggy Data Analysis**
 
 
 
@@ -316,7 +316,7 @@ One row represents one Swiggy menu-item listing for a specific restaurant, dish,
 
 
 ```text
-Swiggy_SQL_Project/
+Swiggy_Data_Analysis/
 │
 ├── Dataset/
 │   ├── swiggy_data.csv
