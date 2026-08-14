@@ -214,11 +214,11 @@ One row represents one Swiggy menu-item listing for a specific restaurant, dish,
 
 
 * McDonald's has the highest menu-record presence among the analyzed restaurants, followed by KFC and Burger King.
-* 
+  
 * Bengaluru has the highest menu-record presence among the analyzed cities, followed by Mumbai.
-* 
+  
 * Some dishes have very high average ratings but relatively low review volumes, showing why ratings should be considered together with review count.
-* 
+  
 * Pricing and rating patterns vary across restaurants, categories, and locations.
 
 
